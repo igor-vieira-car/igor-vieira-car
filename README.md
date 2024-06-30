@@ -52,13 +52,13 @@
       <img height="84" width="84" src="https://github.com/igor-vieira-car/igor-vieira-car/assets/126462591/e56c7e5b-9a0a-4c09-a36f-dd7c2ff62d64" title="CSS"><br>CSS
     </td>
     <td align="center">
-      <img align="left"  height="80" width="80" title="Html" src="https://private-user-images.githubusercontent.com/126462591/342606124-18b9cc7e-0205-4910-a9c1-01bef407b1ec.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTkyOTcyMjAsIm5iZiI6MTcxOTI5NjkyMCwicGF0aCI6Ii8xMjY0NjI1OTEvMzQyNjA2MTI0LTE4YjljYzdlLTAyMDUtNDkxMC1hOWMxLTAxYmVmNDA3YjFlYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYyNVQwNjI4NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMGUxYmNiYTZlNTkwOWRlZmUwYTYwZDBlYzMyNjg2NjdiYzVhZjQyNmI3ZmIwZjMxNGMxMWJhOTBmMzZlYTdlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.R7oQxYCXppMsZfCyZObAon06D7_FdERuMMOpKlWFWdM"><br>HTML
+      <img height="80" width="80" title="Html" src="https://github.com/igor-vieira-car/igor-vieira-car/assets/126462591/99b8d16e-e701-4164-833e-7330f33cd2c2"><br>HTML
     </td>
     <td align="center">
-      <img height="80" width="80" src="https://github.com/igor-vieira-car/igor-vieira-car/assets/126462591/65340337-3fca-48a2-b10d-fae2efc537b5" title="JavaScript"><br>JavaScript
+      <img height="80" width="80" src="https://github.com/igor-vieira-car/igor-vieira-car/assets/126462591/98881b88-af8d-4384-80e7-10b7c044dff1" title="JavaScript"><br>JavaScript
     </td>
     <td align="center">
-      <img height="80" width="80" src="https://github.com/igor-vieira-car/igor-vieira-car/assets/126462591/a4bf6d7e-1af6-4b36-b772-ff722e8c7d11" title="React"><br>React
+      <img height="80" width="80" src="https://github.com/igor-vieira-car/igor-vieira-car/assets/126462591/6672aa6b-4241-447e-b1c3-087163b5a1e5" title="React"><br>React
     </td>
   </tr>
 </table>
@@ -73,7 +73,7 @@
       <img height="80" width="80" src="https://github.com/igor-vieira-car/igor-vieira-car/assets/126462591/b39127c1-9cc0-4660-8c3d-4bba534014bc" title="Spring"><br>Spring
     </td>
     <td align="center">
-      <img height="80" width="80" src="https://github.com/igor-vieira-car/igor-vieira-car/assets/126462591/75f7047d-7cb9-4039-9a4b-8542b9b8a3c9" title="NodeJS"><br>NodeJS
+      <img height="80" width="80" src="https://github.com/igor-vieira-car/igor-vieira-car/assets/126462591/156c1bc8-bf68-4962-aa5d-4bfe56236815" title="NodeJS"><br>NodeJS
     </td>
     <td align="center">
       <img height="80" width="80" src="https://github.com/igor-vieira-car/igor-vieira-car/assets/126462591/9a420c6f-9d7b-4ddc-9da9-8b5a47921489" title="MySql"><br>MySql
@@ -106,7 +106,7 @@
       <img height="80" width="80" src="https://github.com/igor-vieira-car/igor-vieira-car/assets/126462591/2cfca2c4-0a15-4093-8f53-a9ec2cc7e7ef" title="Insomnia"><br>Insomnia
     </td>
     <td align="center">
-      <img height="80" width="80" src="https://github.com/igor-vieira-car/igor-vieira-car/assets/126462591/19525df8-fea3-4305-adc4-6ea1aaee5e96" title="Git"><br>Git
+      <img height="80" width="80" src="https://github.com/igor-vieira-car/igor-vieira-car/assets/126462591/09d575fc-9403-4892-a0b9-ea3b29c545c7" title="Git"><br>Git
     </td>
   </tr>
 </table>
